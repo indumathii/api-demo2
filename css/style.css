@@ -1,0 +1,30 @@
+.myform{
+    background-color: rgb(189, 127, 255);
+    height:30vh !important;
+    width:60vw !important;
+    margin:2rem;
+    border-radius: 10px;
+    
+}
+.btns{
+    margin-left:2rem;
+}
+.inputs{
+    padding:1rem;
+    display: flex;
+    flex-direction: column;
+    width:50vw;
+}
+.row_class{
+    display:flex;
+    flex-direction: row;
+    padding:2rem;
+}
+.card-body
+{
+    height:60vh !important;
+    background-color: rgb(231, 67, 168) !important;
+    border:2px solid black !important;
+    margin:1rem;
+
+}
